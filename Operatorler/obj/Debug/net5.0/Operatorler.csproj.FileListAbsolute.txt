@@ -1,0 +1,16 @@
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\bin\Debug\net5.0\Operatorler.exe
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\bin\Debug\net5.0\Operatorler.deps.json
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.json
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.dev.json
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\bin\Debug\net5.0\Operatorler.dll
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\bin\Debug\net5.0\ref\Operatorler.dll
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\bin\Debug\net5.0\Operatorler.pdb
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\obj\Debug\net5.0\Operatorler.csprojAssemblyReference.cache
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\obj\Debug\net5.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfoInputs.cache
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfo.cs
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\obj\Debug\net5.0\Operatorler.csproj.CoreCompileInputs.cache
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\obj\Debug\net5.0\Operatorler.dll
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\obj\Debug\net5.0\ref\Operatorler.dll
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\obj\Debug\net5.0\Operatorler.pdb
+F:\WebProjeleri\Patikadev\c# 101\Operatorler\obj\Debug\net5.0\Operatorler.genruntimeconfig.cache
