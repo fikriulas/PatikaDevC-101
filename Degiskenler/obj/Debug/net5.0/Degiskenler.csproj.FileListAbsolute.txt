@@ -1,0 +1,16 @@
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\bin\Debug\net5.0\Degiskenler.exe
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\bin\Debug\net5.0\Degiskenler.deps.json
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\bin\Debug\net5.0\Degiskenler.runtimeconfig.json
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\bin\Debug\net5.0\Degiskenler.runtimeconfig.dev.json
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\bin\Debug\net5.0\Degiskenler.dll
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\bin\Debug\net5.0\ref\Degiskenler.dll
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\bin\Debug\net5.0\Degiskenler.pdb
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.csprojAssemblyReference.cache
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.AssemblyInfoInputs.cache
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.AssemblyInfo.cs
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.csproj.CoreCompileInputs.cache
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.dll
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\obj\Debug\net5.0\ref\Degiskenler.dll
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.pdb
+F:\WebProjeleri\PativaDev\c# 101\Degiskenler\obj\Debug\net5.0\Degiskenler.genruntimeconfig.cache

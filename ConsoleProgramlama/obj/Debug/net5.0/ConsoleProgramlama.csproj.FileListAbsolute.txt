@@ -1,0 +1,16 @@
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.exe
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.deps.json
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.runtimeconfig.json
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.runtimeconfig.dev.json
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.dll
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\bin\Debug\net5.0\ref\ConsoleProgramlama.dll
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.pdb
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.csprojAssemblyReference.cache
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.AssemblyInfoInputs.cache
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.AssemblyInfo.cs
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.csproj.CoreCompileInputs.cache
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.dll
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\obj\Debug\net5.0\ref\ConsoleProgramlama.dll
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.pdb
+F:\WebProjeleri\PativaDev\c# 101\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.genruntimeconfig.cache
