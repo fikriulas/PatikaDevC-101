@@ -1,0 +1,16 @@
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.exe
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.deps.json
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.runtimeconfig.json
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.runtimeconfig.dev.json
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.dll
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\bin\Debug\net5.0\ref\TipDonusumleri.dll
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\bin\Debug\net5.0\TipDonusumleri.pdb
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.csprojAssemblyReference.cache
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.AssemblyInfoInputs.cache
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.AssemblyInfo.cs
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.csproj.CoreCompileInputs.cache
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.dll
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\obj\Debug\net5.0\ref\TipDonusumleri.dll
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.pdb
+F:\WebProjeleri\Patikadev\c# 101\TipDonusumleri\obj\Debug\net5.0\TipDonusumleri.genruntimeconfig.cache
