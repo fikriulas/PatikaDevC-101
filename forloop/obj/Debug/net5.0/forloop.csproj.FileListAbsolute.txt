@@ -1,0 +1,16 @@
+F:\WebProjeleri\Patikadev\c# 101\forloop\bin\Debug\net5.0\forloop.exe
+F:\WebProjeleri\Patikadev\c# 101\forloop\bin\Debug\net5.0\forloop.deps.json
+F:\WebProjeleri\Patikadev\c# 101\forloop\bin\Debug\net5.0\forloop.runtimeconfig.json
+F:\WebProjeleri\Patikadev\c# 101\forloop\bin\Debug\net5.0\forloop.runtimeconfig.dev.json
+F:\WebProjeleri\Patikadev\c# 101\forloop\bin\Debug\net5.0\forloop.dll
+F:\WebProjeleri\Patikadev\c# 101\forloop\bin\Debug\net5.0\ref\forloop.dll
+F:\WebProjeleri\Patikadev\c# 101\forloop\bin\Debug\net5.0\forloop.pdb
+F:\WebProjeleri\Patikadev\c# 101\forloop\obj\Debug\net5.0\forloop.csprojAssemblyReference.cache
+F:\WebProjeleri\Patikadev\c# 101\forloop\obj\Debug\net5.0\forloop.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebProjeleri\Patikadev\c# 101\forloop\obj\Debug\net5.0\forloop.AssemblyInfoInputs.cache
+F:\WebProjeleri\Patikadev\c# 101\forloop\obj\Debug\net5.0\forloop.AssemblyInfo.cs
+F:\WebProjeleri\Patikadev\c# 101\forloop\obj\Debug\net5.0\forloop.csproj.CoreCompileInputs.cache
+F:\WebProjeleri\Patikadev\c# 101\forloop\obj\Debug\net5.0\forloop.dll
+F:\WebProjeleri\Patikadev\c# 101\forloop\obj\Debug\net5.0\ref\forloop.dll
+F:\WebProjeleri\Patikadev\c# 101\forloop\obj\Debug\net5.0\forloop.pdb
+F:\WebProjeleri\Patikadev\c# 101\forloop\obj\Debug\net5.0\forloop.genruntimeconfig.cache
