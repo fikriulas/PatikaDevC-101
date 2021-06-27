@@ -1,0 +1,16 @@
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\bin\Debug\net5.0\SwitchCase.exe
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\bin\Debug\net5.0\SwitchCase.deps.json
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.json
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.dev.json
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\bin\Debug\net5.0\SwitchCase.dll
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\bin\Debug\net5.0\ref\SwitchCase.dll
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\bin\Debug\net5.0\SwitchCase.pdb
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\obj\Debug\net5.0\SwitchCase.csprojAssemblyReference.cache
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\obj\Debug\net5.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfoInputs.cache
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfo.cs
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.CoreCompileInputs.cache
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\obj\Debug\net5.0\SwitchCase.dll
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\obj\Debug\net5.0\ref\SwitchCase.dll
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\obj\Debug\net5.0\SwitchCase.pdb
+F:\WebProjeleri\Patikadev\c# 101\SwitchCase\obj\Debug\net5.0\SwitchCase.genruntimeconfig.cache
